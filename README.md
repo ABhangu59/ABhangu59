@@ -11,8 +11,9 @@ Here are some of the technologies and tools I'm proficient in:
 - Python
 - SQL
 - HTML, CSS, JS
-**
-📫  You can reach me at alibhangu1@outlook.com**
+
+  
+📫  You can reach me at alibhangu1@outlook.com
 
 <!--
 **ABhangu59/ABhangu59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

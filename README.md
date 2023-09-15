@@ -12,7 +12,9 @@ Here are some of the technologies and tools I'm proficient in:
 - SQL
 - HTML, CSS, JS
 
-  
+
+
+
 📫  You can reach me at alibhangu1@outlook.com
 
 <!--

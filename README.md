@@ -1,6 +1,6 @@
-### 👋 Hi there I'm Ali Raza Bhangu
+### 👋 Hi there
 
-Welcome to my GitHub! 
+I'm Ali Raza Bhangu and Welcome to my GitHub! 
 
 **💼 I'm currently looking for opportunities for Winter 2024! **
 

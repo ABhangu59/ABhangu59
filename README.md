@@ -11,7 +11,8 @@ Here are some of the technologies and tools I'm proficient in:
 - C#, WPF, WCF
 - Python
 - SQL
-- HTML, CSS, React JS
+- HTML, CSS, JS
+- Spring Framework Backend and React Frontend with MySQL 
 
 
 

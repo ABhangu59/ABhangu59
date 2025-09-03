@@ -7,8 +7,8 @@ I'm Ali Raza Bhangu and Welcome to my GitHub!
 ## 🛠️ Skills
 
 Here are some of the technologies and tools I'm proficient in:
-- Java
-- React, Node
+- React
+- Node
 - C#, WPF, WCF
 - Python and Data Science Libraries
 - SQL
